@@ -46,7 +46,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class\asiriYukleme.cs" />
+    <Compile Include="Class\checked.cs" />
+    <Compile Include="Class\erisimBelirleyici.cs" />
+    <Compile Include="Class\ifElse.cs" />
+    <Compile Include="Class\math.cs" />
+    <Compile Include="Class\namespace.cs" />
+    <Compile Include="Class\operator.cs" />
     <Compile Include="Class\operatorler.cs" />
+    <Compile Include="Class\ornek1.cs" />
+    <Compile Include="Class\ornek2.cs" />
+    <Compile Include="Class\ornek3.cs" />
+    <Compile Include="Class\switchCase.cs" />
+    <Compile Include="Class\tarihSaat.cs" />
     <Compile Include="Class\turDonusumleri.cs" />
     <Compile Include="Class\veriTurleri.cs" />
     <Compile Include="Intro.cs">
